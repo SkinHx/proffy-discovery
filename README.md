@@ -1,3 +1,3 @@
 # proffy-discovery
 
-<img src="public/images/icons/repository/title-readme.png">
+<img src="public/images/repository/title-readme.png">
