@@ -26,3 +26,17 @@ This project was developed together with the **[@Rocketseat](https://github.com/
 A perfect study platform for anyone who wants to learn or teach! Proffy, your online study platform.
 
 ---
+
+## :rocket: Utilized tecnology
+
+This project focuses on the following technologies
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Nunjucks
+- SQLite
+
+---
+
