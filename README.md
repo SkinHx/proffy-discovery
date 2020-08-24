@@ -11,7 +11,7 @@
 
 ---
 
-## :computer: Preview (#-Preview)
+## :computer: Preview
 
 <p align="center">
     <img src="public/images/repository/screenshot/page.png" width="700">
