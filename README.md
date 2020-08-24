@@ -20,3 +20,9 @@
 ---
 
 ## :book: About
+
+This project was developed together with the **[@Rocketseat](https://github.com/Rocketseat)** group during the **[Next Level Week](https://nextlevelweek.com/)**, held from 3 to 9 august 2020.
+
+A perfect study platform for anyone who wants to learn or teach! Proffy, your online study platform.
+
+---
