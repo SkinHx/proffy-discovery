@@ -55,4 +55,8 @@ npm i
 # Run the server
 npm run dev
 ```
+Ready? open your browser and acess `http://localhost:5500/`
+
+---
+
 
