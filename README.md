@@ -40,3 +40,19 @@ This project focuses on the following technologies
 
 ---
 
+## How to executed
+
+```bash
+# Clone the repository
+git clone https://github.com/SkinHx/proffy-discovery
+
+# Enter directory
+cd proffy-discovery
+
+# Download dependencies
+npm i
+
+# Run the server
+npm run dev
+```
+
