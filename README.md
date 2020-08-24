@@ -59,4 +59,8 @@ Ready? open your browser and acess `http://localhost:5500/`
 
 ---
 
+I hope you enjoy.:purple_heart:
+
+Developed by Eduardo Froelich.:metal:
+
 
